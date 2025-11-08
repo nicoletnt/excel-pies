@@ -6,5 +6,5 @@ venv/
 .env
 
 # Data / outputs
-data/*.xlsx
+# data/*.xlsx
 output/
