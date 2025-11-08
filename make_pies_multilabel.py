@@ -6,7 +6,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 import numpy as np
 
 # ================= USER SETTINGS =================
-EXCEL_FILE = "elevate.xlsx"   # change if needed
+EXCEL_FILE = "data/elevate.xlsx"   # change if needed
 SHEET_NAME = "data"           # set to None to auto-detect
 TECH_COL = "Technology"       # column to parse
 
